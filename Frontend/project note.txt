@@ -1,0 +1,13 @@
+         Project Note:
+         
+         -In the project for better server I am use vite .
+         
+         -For better UI I'm use daisyui tailwind library
+
+         -For scrolling the cards use React Slick library
+
+         -For forms I use  react-hook-forms
+                
+                 npm install react-hook-form
+
+         -         
